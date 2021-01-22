@@ -1,6 +1,6 @@
 {
   "name": "@equinor/jest-config-fusion",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": [],
   "author": "odin thomas rochmann <odin.rochmann@gmail.com>",
   "homepage": "https://github.com/equinor/fusion-core/tree/master/packages/jest#readme",
