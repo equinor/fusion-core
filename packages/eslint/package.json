@@ -1,6 +1,6 @@
 {
   "name": "@equinor/eslint-config-fusion",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "keywords": [
     "eslint",
     "config"
