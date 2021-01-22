@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.2](https://github.com/equinor/fusion-core/compare/@equinor/jest-config-fusion@0.1.1...@equinor/jest-config-fusion@0.1.2) (2021-01-22)
+
+
+### Bug Fixes
+
+* make package public ([149e805](https://github.com/equinor/fusion-core/commit/149e8055047abd2f8bc8af99d46cfeb3e4286770))
+
+
+
+
+
 ## [0.1.1](https://github.com/equinor/fusion-core/compare/@equinor/jest-config-fusion@0.1.0...@equinor/jest-config-fusion@0.1.1) (2021-01-22)
 
 
