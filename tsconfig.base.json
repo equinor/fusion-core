@@ -15,7 +15,13 @@
         "sourceMap": true,
         "rootDir": ".",
         "paths": {
-            "@equinor/fusion-react-*": [
+            "@equinor/eslint-config-fusion": [
+                "eslint/src"
+            ],
+            "@equinor/jest-config-fusion": [
+                "eslint/src"
+            ],
+            "@equinor/fusion-*": [
                 "*/src"
             ],
         },

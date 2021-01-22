@@ -3,9 +3,14 @@
   "version": "0.0.0",
   "keywords": [],
   "author": "odin thomas rochmann <odin.rochmann@gmail.com>",
-  "homepage": "https://github.com/equinor/fusion-api/tree/master/packages/jest#readme",
+  "homepage": "https://github.com/equinor/fusion-core/tree/master/packages/jest#readme",
   "license": "ISC",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/equinor/fusion-core.git",
+    "directory": "packages/jest"
+  },
   "peerDependencies": {
     "jest": "26.x",
     "tslib": "2.x",
