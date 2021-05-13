@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.3-next.0](https://github.com/equinor/fusion-core/compare/@equinor/jest-config-fusion@0.1.2...@equinor/jest-config-fusion@0.1.3-next.0) (2021-05-13)
+
+
+### Bug Fixes
+
+* **jest:** allow ts-node ([cd1dd6c](https://github.com/equinor/fusion-core/commit/cd1dd6c1f8aa0c984e40498c92c496a5911e97fb))
+
+
+
+
+
 ## [0.1.2](https://github.com/equinor/fusion-core/compare/@equinor/jest-config-fusion@0.1.1...@equinor/jest-config-fusion@0.1.2) (2021-01-22)
 
 
