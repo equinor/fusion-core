@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.3-next.1](https://github.com/equinor/fusion-core/compare/@equinor/jest-config-fusion@0.1.3-next.0...@equinor/jest-config-fusion@0.1.3-next.1) (2021-05-13)
+
+
+### Bug Fixes
+
+* add scripts ([6c251cd](https://github.com/equinor/fusion-core/commit/6c251cd6fda664b4085abeaf626e3e5c5e133c1c))
+* build for module ([6445d32](https://github.com/equinor/fusion-core/commit/6445d32ae3bc5df9bff0fe5610404481fd541036))
+
+
+
+
+
 ## [0.1.3-next.0](https://github.com/equinor/fusion-core/compare/@equinor/jest-config-fusion@0.1.2...@equinor/jest-config-fusion@0.1.3-next.0) (2021-05-13)
 
 
