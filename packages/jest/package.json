@@ -14,11 +14,21 @@
     "directory": "packages/jest"
   },
   "scripts": {
-    "build": "tsc -b",
+    "build": "tsc -b --clean && npm run build:esm && npm run build:cjs",
+    "build:esm": "tsc --module 'ESNext' --outDir dist/esm",
+    "build:cjs": "tsc --module 'CommonJS' --outDir dist/cjs",
     "prepack": "npm run build"
   },
-  "module": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "types": "index.d.ts",
+  "typesVersions": {
+    ">=4.2": {
+      "*": [
+        "dist/types/*"
+      ]
+    }
+  },
   "peerDependencies": {
     "@types/jest": "26.x",
     "jest": "26.x",

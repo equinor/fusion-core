@@ -5,6 +5,7 @@
     "outDir": "dist",
     "strict": true,
     "declaration": true,
+    "declarationDir": "dist/types",
     "moduleResolution": "node",
     "skipLibCheck": true,
   },
