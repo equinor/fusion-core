@@ -1,6 +1,6 @@
 {
   "name": "@equinor/eslint-config-fusion",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "keywords": [
     "eslint",
     "config"
@@ -14,19 +14,19 @@
     "directory": "packages/eslint"
   },
   "peerDependencies": {
-    "eslint": "^7.x",
+    "eslint": "^8.x",
     "prettier": "^2.x",
     "typescript": "4.x"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.7.0",
-    "@typescript-eslint/parser": "^4.7.0",
-    "eslint-config-prettier": "^6.15.0",
-    "eslint-plugin-prettier": "^3.1.4",
-    "eslint-plugin-react": "^7.22.0",
-    "eslint-plugin-react-hooks": "^4.2.0"
+    "@typescript-eslint/eslint-plugin": "^5.11.0",
+    "@typescript-eslint/parser": "^5.11.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-react-hooks": "^4.3.0"
   },
   "devDependencies": {
-    "eslint": "^7.17.0"
+    "eslint": "^8.8.0"
   }
 }
