@@ -14,6 +14,7 @@ module.exports = {
       "error",
       // allow arguments prefixed with underscore
       { "argsIgnorePattern": "^_" }
-    ]
+    ],
+    "prettier/prettier": "warn"
   }
 }
