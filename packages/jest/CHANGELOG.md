@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.7](https://github.com/equinor/fusion-core/compare/@equinor/jest-config-fusion@0.1.4...@equinor/jest-config-fusion@0.1.7) (2022-12-12)
+
+### Bug Fixes
+
+- add missing deps ([03ba59a](https://github.com/equinor/fusion-core/commit/03ba59a8beb79a5dfe4b3fc16dffb253277bfd63))
+
 ## [0.1.6](https://github.com/equinor/fusion-core/compare/@equinor/jest-config-fusion@0.1.4...@equinor/jest-config-fusion@0.1.6) (2022-12-12)
 
 ### Bug Fixes
