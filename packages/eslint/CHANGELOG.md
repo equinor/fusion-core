@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.3](https://github.com/equinor/fusion-core/compare/@equinor/eslint-config-fusion@0.1.2...@equinor/eslint-config-fusion@1.0.3) (2022-12-12)
+
+
+### Bug Fixes
+
+* **eslint-config-fusion:** update eslint and other dependencies. Close [#14](https://github.com/equinor/fusion-core/issues/14) ([a9fced1](https://github.com/equinor/fusion-core/commit/a9fced131029af380f9772c2c192c23ff5052e1c))
+* only display warnings for style errors ([ceb844b](https://github.com/equinor/fusion-core/commit/ceb844b5b82376bfbd596b74ba2910d7c0419f65))
+
+
+
+
+
 ## [0.1.2](https://github.com/equinor/fusion-core/compare/@equinor/eslint-config-fusion@0.1.1...@equinor/eslint-config-fusion@0.1.2) (2021-07-02)
 
 
