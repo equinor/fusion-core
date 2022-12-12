@@ -1,5 +1,5 @@
 {
-  "name": "@equinor/fusion-react-components",
+  "name": "@equinor/fusion-core",
   "version": "0.0.0",
   "description": "colleaction of fusion core packages",
   "scripts": {
