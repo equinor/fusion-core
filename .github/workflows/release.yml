@@ -15,9 +15,6 @@ jobs:
       
       - name: Setup node
         uses: actions/setup-node@v3
-        with:
-          node-version: '16'
-          registry-url: https://registry.npmjs.org
 
       - name: Install Node Dependencies
         run: npm ci
