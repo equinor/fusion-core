@@ -18,6 +18,9 @@
             "@equinor/eslint-config-fusion": [
                 "eslint/src"
             ],
+            "@equinor/eslint-config-fusion-react": [
+                "eslint-react/src"
+            ],
             "@equinor/jest-config-fusion": [
                 "eslint/src"
             ],
