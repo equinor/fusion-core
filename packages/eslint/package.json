@@ -8,6 +8,9 @@
   "author": "odin thomas rochmann <odin.rochmann@gmail.com>",
   "homepage": "https://github.com/equinor/fusion-core/tree/master/packages/eslint#readme",
   "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/equinor/fusion-core.git",
