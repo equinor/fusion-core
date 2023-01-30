@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.1.0](https://github.com/equinor/fusion-core/compare/@equinor/eslint-config-fusion@1.0.6...@equinor/eslint-config-fusion@2.1.0) (2023-01-30)
+
+### Features
+
+- remove react ([b665ba3](https://github.com/equinor/fusion-core/commit/b665ba36f5a7042c2be535c156c52149a3dc1289))
+
 ## [1.0.6](https://github.com/equinor/fusion-core/compare/@equinor/eslint-config-fusion@1.0.4...@equinor/eslint-config-fusion@1.0.6) (2022-12-12)
 
 **Note:** Version bump only for package @equinor/eslint-config-fusion

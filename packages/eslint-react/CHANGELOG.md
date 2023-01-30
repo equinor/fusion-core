@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.1.0 (2023-01-30)
+
+### Features
+
+- **eslint-react:** add eslint for react ([872c03c](https://github.com/equinor/fusion-core/commit/872c03c17e707d9f47e8704bb8a0fee8b67394bc))
+
 ## [1.0.6](https://github.com/equinor/fusion-core/compare/@equinor/eslint-config-fusion@1.0.4...@equinor/eslint-config-fusion@1.0.6) (2022-12-12)
 
 **Note:** Version bump only for package @equinor/eslint-config-fusion
