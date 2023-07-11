@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.1.8 (2023-07-11)
+
+**Note:** Version bump only for package @equinor/jest-config-fusion
+
+
+
+
+
 ## [0.1.7](https://github.com/equinor/fusion-core/compare/@equinor/jest-config-fusion@0.1.4...@equinor/jest-config-fusion@0.1.7) (2022-12-12)
 
 ### Bug Fixes
