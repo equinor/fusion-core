@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "description": "colleaction of fusion core packages",
   "scripts": {
-    "install": "lerna bootstrap",
     "prepare": "husky install"
   },
   "repository": {
