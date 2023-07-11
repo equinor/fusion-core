@@ -2,6 +2,7 @@
   "name": "@equinor/eslint-config-fusion",
   "version": "2.1.0",
   "keywords": [
+    "fusion",
     "eslint",
     "config"
   ],
