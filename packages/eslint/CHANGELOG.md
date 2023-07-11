@@ -3,17 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [2.1.1](https://github.com/equinor/fusion-core/compare/@equinor/eslint-config-fusion@2.1.0...@equinor/eslint-config-fusion@2.1.1) (2023-07-11)
-
+## [2.1.2](https://github.com/equinor/fusion-core/compare/@equinor/eslint-config-fusion@2.1.1...@equinor/eslint-config-fusion@2.1.2) (2023-07-11)
 
 ### Bug Fixes
 
-* **eslint:** adding typescript v5 as peerDependencie ([bfcb159](https://github.com/equinor/fusion-core/commit/bfcb1594d16a3790c8e23dead61990c976133838))
-* **lint:** allow module in eslint config ([6017c79](https://github.com/equinor/fusion-core/commit/6017c79c794815730972022389b2d2cee61f27f6))
+- **eslint:** adding typescript v5 as peerDependencie ([bfcb159](https://github.com/equinor/fusion-core/commit/bfcb1594d16a3790c8e23dead61990c976133838))
+- **lint:** allow module in eslint config ([6017c79](https://github.com/equinor/fusion-core/commit/6017c79c794815730972022389b2d2cee61f27f6))
 
+## [2.1.1](https://github.com/equinor/fusion-core/compare/@equinor/eslint-config-fusion@2.1.0...@equinor/eslint-config-fusion@2.1.1) (2023-07-11)
 
+### Bug Fixes
 
-
+- **eslint:** adding typescript v5 as peerDependencie ([bfcb159](https://github.com/equinor/fusion-core/commit/bfcb1594d16a3790c8e23dead61990c976133838))
+- **lint:** allow module in eslint config ([6017c79](https://github.com/equinor/fusion-core/commit/6017c79c794815730972022389b2d2cee61f27f6))
 
 # [2.1.0](https://github.com/equinor/fusion-core/compare/@equinor/eslint-config-fusion@1.0.6...@equinor/eslint-config-fusion@2.1.0) (2023-01-30)
 

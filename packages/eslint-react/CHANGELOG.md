@@ -3,16 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [1.1.1](https://github.com/equinor/fusion-core/compare/@equinor/eslint-config-fusion-react@1.1.0...@equinor/eslint-config-fusion-react@1.1.1) (2023-07-11)
+## [1.1.2](https://github.com/equinor/fusion-core/compare/@equinor/eslint-config-fusion-react@1.1.1...@equinor/eslint-config-fusion-react@1.1.2) (2023-07-11)
 
+**Note:** Version bump only for package @equinor/eslint-config-fusion-react
+
+## [1.1.1](https://github.com/equinor/fusion-core/compare/@equinor/eslint-config-fusion-react@1.1.0...@equinor/eslint-config-fusion-react@1.1.1) (2023-07-11)
 
 ### Bug Fixes
 
-* **lint:** allow module in eslint config ([6017c79](https://github.com/equinor/fusion-core/commit/6017c79c794815730972022389b2d2cee61f27f6))
-
-
-
-
+- **lint:** allow module in eslint config ([6017c79](https://github.com/equinor/fusion-core/commit/6017c79c794815730972022389b2d2cee61f27f6))
 
 # 1.1.0 (2023-01-30)
 
