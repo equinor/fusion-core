@@ -4,7 +4,8 @@
   "keywords": [
     "fusion",
     "eslint",
-    "config"
+    "config",
+    "typescript"
   ],
   "author": "odin thomas rochmann <odin.rochmann@gmail.com>",
   "homepage": "https://github.com/equinor/fusion-core/tree/master/packages/eslint#readme",
