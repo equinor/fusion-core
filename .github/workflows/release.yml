@@ -1,7 +1,6 @@
 name: Release
 
 on:
-  workflow_dispatch:
   push:
     branches:
       - main
@@ -24,6 +23,11 @@ jobs:
           cache: 'npm'
           registry-url: https://registry.npmjs.org
 
+      - name: Install Node Dependencies
+        run: npm ci --legacy-peer-deps
+        env:
+          CI: TRUE
+
       - name: Config git user
         run: |
           git config --global user.name "${{ github.actor }}"
@@ -34,11 +38,6 @@ jobs:
         run: npx lerna version --yes --conventional-graduate --create-release github
         env:
           GH_TOKEN: ${{ github.token }}
-
-      - name: Install Node Dependencies
-        run: npm ci --legacy-peer-deps
-        env:
-          CI: TRUE
 
       - name: Release packages
         run: npx lerna publish from-package --yes --no-verify-access
