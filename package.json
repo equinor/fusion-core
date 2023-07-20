@@ -19,15 +19,15 @@
   },
   "homepage": "https://github.com/equinor/fusion-core#readme",
   "devDependencies": {
-    "@commitlint/cli": "^17.4.2",
-    "@commitlint/config-conventional": "^17.4.2",
+    "@commitlint/cli": "^17.6.7",
+    "@commitlint/config-conventional": "^17.6.7",
     "@equinor/eslint-config-fusion": "./packages/eslint",
-    "eslint": "^8.33.0",
+    "eslint": "^8.45.0",
     "husky": "^8.0.3",
-    "lerna": "^7.1.1",
-    "lint-staged": "^13.1.0",
-    "prettier": "^2.8.3",
-    "typescript": "^4.9.4"
+    "lerna": "^7.1.4",
+    "lint-staged": "^13.2.3",
+    "prettier": "^3.0.0",
+    "typescript": "^5.1.6"
   },
   "lint-staged": {
     "./packages/**/src/**/*.{ts,tsx}": [
