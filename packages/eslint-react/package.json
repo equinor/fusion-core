@@ -1,6 +1,6 @@
 {
   "name": "@equinor/eslint-config-fusion-react",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "keywords": [
     "fusion",
     "eslint",
@@ -22,7 +22,7 @@
     "@equinor/eslint-config-fusion": "*"
   },
   "dependencies": {
-    "@equinor/eslint-config-fusion": "^2.1.2",
+    "@equinor/eslint-config-fusion": "^2.1.3",
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0"
   },
