@@ -23,9 +23,9 @@
   },
   "dependencies": {
     "@equinor/eslint-config-fusion": "*",
-    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react": "^7.33.0",
     "eslint-plugin-react-hooks": "^4.6.0",
-    "eslint-plugin-styled-components-a11y": "^2.0.1"
+    "eslint-plugin-styled-components-a11y": "^2.1.31"
   },
   "devDependencies": {
     "@equinor/eslint-config-fusion": "^1.0.6"
