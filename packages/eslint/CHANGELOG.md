@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.5](https://github.com/equinor/fusion-core/compare/@equinor/eslint-config-fusion@2.1.4...@equinor/eslint-config-fusion@2.1.5) (2023-10-04)
+
+**Note:** Version bump only for package @equinor/eslint-config-fusion
+
+
+
+
+
 ## 2.1.4 (2023-07-27)
 
 **Note:** Version bump only for package @equinor/eslint-config-fusion
