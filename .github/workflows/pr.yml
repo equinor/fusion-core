@@ -1,0 +1,38 @@
+name: PR
+
+on: 
+  pull_request: 
+    types: 
+      - ready_for_review
+      - opened
+      - reopened
+      - synchronize
+
+concurrency:
+  group: pr-${{ github.event.pull_request.id }}
+  cancel-in-progress: true
+
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+  
+jobs:
+  code-quality:
+    name: Check Code
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: "${{ github.event.pull_request.head.sha }}"
+          fetch-depth: 0
+      
+      - name: Setup node and install deps
+        uses: ./.github/workflows/actions/node-setup
+        with:
+          turbo-cache: true
+          
+      - name: Build affected packages
+        id: build
+        run: pnpm build

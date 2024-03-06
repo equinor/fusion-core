@@ -3,7 +3,9 @@
   "version": "0.0.0",
   "description": "colleaction of fusion core packages",
   "scripts": {
-    "prepare": "husky install"
+    "build": "pnpm -r build",
+    "changeset:version": "changeset version && pnpm install --lockfile-only",
+    "changeset:publish": "pnpm changeset tag && pnpm publish -r"
   },
   "repository": {
     "type": "git",
@@ -18,23 +20,18 @@
     "url": "https://github.com/equinor/fusion-core/issues"
   },
   "homepage": "https://github.com/equinor/fusion-core#readme",
-  "devDependencies": {
-    "@commitlint/cli": "^17.6.7",
-    "@commitlint/config-conventional": "^17.6.7",
-    "@equinor/eslint-config-fusion": "./packages/eslint",
-    "eslint": "^8.45.0",
-    "husky": "^8.0.3",
-    "lerna": "^7.1.4",
-    "lint-staged": "^13.2.3",
-    "prettier": "^3.0.0",
-    "typescript": "^5.1.6"
+  "engines": {
+    "node": "^18 || ^20",
+    "npm": "please-use-pnpm",
+    "yarn": "please-use-pnpm",
+    "pnpm": ">=4"
   },
-  "lint-staged": {
-    "./packages/**/src/**/*.{ts,tsx}": [
-      "eslint --quiet --fix"
-    ]
-  },
+  "packageManager": "pnpm@8.15.1",
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "@changesets/changelog-github": "^0.5.0",
+    "@changesets/cli": "^2.27.1"
+  }
 }
