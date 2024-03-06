@@ -1,5 +1,16 @@
 # Change Log
 
+## 2.1.0
+
+### Minor Changes
+
+- [#53](https://github.com/equinor/fusion-core/pull/53) [`8a85763`](https://github.com/equinor/fusion-core/commit/8a85763181579e0fcbb3dedd39023c6ddaf288f2) Thanks [@odinr](https://github.com/odinr)! - Bumped eslint to 7
+
+### Patch Changes
+
+- Updated dependencies [[`8a85763`](https://github.com/equinor/fusion-core/commit/8a85763181579e0fcbb3dedd39023c6ddaf288f2)]:
+  - @equinor/eslint-config-fusion@2.2.0
+
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
@@ -7,36 +18,19 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 **Note:** Version bump only for package @equinor/eslint-config-fusion-react
 
-
-
-
-
 ## [2.0.1](https://github.com/equinor/fusion-core/compare/@equinor/eslint-config-fusion-react@2.0.0...@equinor/eslint-config-fusion-react@2.0.1) (2023-07-27)
 
 **Note:** Version bump only for package @equinor/eslint-config-fusion-react
 
-
-
-
-
 # [2.0.0](https://github.com/equinor/fusion-core/compare/@equinor/eslint-config-fusion-react@1.1.4...@equinor/eslint-config-fusion-react@2.0.0) (2023-07-20)
-
 
 ### Reverts
 
-* Revert "chore(release): publish" ([919a443](https://github.com/equinor/fusion-core/commit/919a443666267a1b0ca446fe84b15d5dc14d814a))
-
-
-
-
+- Revert "chore(release): publish" ([919a443](https://github.com/equinor/fusion-core/commit/919a443666267a1b0ca446fe84b15d5dc14d814a))
 
 ## [1.1.3](https://github.com/equinor/fusion-core/compare/@equinor/eslint-config-fusion-react@1.1.2...@equinor/eslint-config-fusion-react@1.1.3) (2023-07-20)
 
 **Note:** Version bump only for package @equinor/eslint-config-fusion-react
-
-
-
-
 
 ## [1.1.2](https://github.com/equinor/fusion-core/compare/@equinor/eslint-config-fusion-react@1.1.1...@equinor/eslint-config-fusion-react@1.1.2) (2023-07-11)
 

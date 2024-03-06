@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.2.0
+
+### Minor Changes
+
+- [#53](https://github.com/equinor/fusion-core/pull/53) [`8a85763`](https://github.com/equinor/fusion-core/commit/8a85763181579e0fcbb3dedd39023c6ddaf288f2) Thanks [@odinr](https://github.com/odinr)! - Bumped jest to 29
+
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
@@ -7,17 +13,9 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 **Note:** Version bump only for package @equinor/jest-config-fusion
 
-
-
-
-
 ## 0.1.8 (2023-07-11)
 
 **Note:** Version bump only for package @equinor/jest-config-fusion
-
-
-
-
 
 ## [0.1.7](https://github.com/equinor/fusion-core/compare/@equinor/jest-config-fusion@0.1.4...@equinor/jest-config-fusion@0.1.7) (2022-12-12)
 
