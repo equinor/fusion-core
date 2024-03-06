@@ -29,7 +29,8 @@ jobs:
         id: changesets
         uses: changesets/action@v1
         with:
-          title: '🤖 Bip Bop - Fusion Framework Release'
+          title: 'chore(release): 🤖 Bip Bop - Fusion Core Release'
+          commit: 'chore(release): versioning packages'
           createGithubReleases: true
           setupGitUser: false
           version: pnpm changeset:version
