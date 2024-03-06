@@ -1,0 +1,21 @@
+{
+  "$schema": "https://unpkg.com/@changesets/config@2.3.0/schema.json",
+  "changelog": [
+    "@changesets/changelog-github",
+    { "repo": "equinor/fusion-core" }
+  ],
+  "fixed": [],
+  "linked": [],
+  "ignore": [],
+  "commit": false,
+  "access": "public",
+  "baseBranch": "origin/main",
+  "updateInternalDependencies": "minor",
+  "snapshot": {
+    "useCalculatedVersion": true,
+    "prereleaseTemplate": "{tag}-{commit}"
+  },
+  "___experimentalUnsafeOptions_WILL_CHANGE_IN_PATCH": {
+    "onlyUpdatePeerDependentsWhenOutOfRange": true
+  }
+}
