@@ -29,7 +29,7 @@ jobs:
         id: changesets
         uses: changesets/action@v1
         with:
-          title: 'chore(release): Bip Bop 🤖📦🚀'
+          title: '🤖 Bip Bop - realese of packages'
           commit: 'chore(release): versioning packages'
           createGithubReleases: true
           setupGitUser: false
