@@ -27,6 +27,7 @@
     "yarn": "please-use-pnpm",
     "pnpm": ">=9"
   },
+  "packageManager": "pnpm@9.1.0",
   "workspaces": [
     "packages/*"
   ],
