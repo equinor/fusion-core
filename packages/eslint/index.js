@@ -1,3 +1,4 @@
+// @equinor/eslint-config-fusion index.js
 // eslint-disable-next-line no-undef
 module.exports = {
   parser: '@typescript-eslint/parser',
