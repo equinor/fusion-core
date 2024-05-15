@@ -19,17 +19,17 @@
     "directory": "packages/eslint"
   },
   "peerDependencies": {
-    "eslint": "8.x",
+    "eslint": "8.x || 9.x",
     "prettier": "*",
     "typescript": "4.x || 5.x"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^7.1.1",
-    "@typescript-eslint/parser": "^7.1.1",
+    "@typescript-eslint/eslint-plugin": "^7.9.0",
+    "@typescript-eslint/parser": "^7.9.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.1.3"
   },
   "devDependencies": {
-    "eslint": "^8.57.0"
+    "eslint": "^9.2.0"
   }
 }
