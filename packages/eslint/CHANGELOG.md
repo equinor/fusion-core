@@ -1,5 +1,12 @@
 # Change Log
 
+## 2.3.0
+
+### Minor Changes
+
+- [#83](https://github.com/equinor/fusion-core/pull/83) [`c816100`](https://github.com/equinor/fusion-core/commit/c816100e15dccf76f41db0a9a6fedd1d6e8e0aeb) Thanks [@AndrejNikolicEq](https://github.com/AndrejNikolicEq)! - - PeerDeps include version 9 of eslint
+  - Eslint plugin react patch update
+
 ## 2.2.0
 
 ### Minor Changes
