@@ -23,8 +23,8 @@
   },
   "dependencies": {
     "@equinor/eslint-config-fusion": "workspace:^",
-    "eslint-plugin-react": "^7.34.0",
-    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react": "^7.34.1",
+    "eslint-plugin-react-hooks": "^4.6.2",
     "eslint-plugin-styled-components-a11y": "^2.1.32"
   },
   "devDependencies": {
